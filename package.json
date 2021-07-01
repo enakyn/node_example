@@ -19,6 +19,7 @@
   "dependencies": {
     "bootstrap": "^5.0.2",
     "google": "^0.6.0",
+    "jquery": "^3.6.0",
     "password": "^0.1.1"
   }
 }
