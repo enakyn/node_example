@@ -1,0 +1,24 @@
+{
+  "name": "sf_npm",
+  "version": "1.0.0",
+  "description": "sf_npm_example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enakyn/sf_npm.git"
+  },
+  "author": "Arseniy Volobuev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enakyn/sf_npm/issues"
+  },
+  "homepage": "https://github.com/enakyn/sf_npm#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "google": "^0.6.0",
+    "password": "^0.1.1"
+  }
+}
